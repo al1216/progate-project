@@ -1,0 +1,156 @@
+/************************ tag ************************/
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-weight: normal;
+
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+p{
+  padding: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/************************ class ************************/
+.top-container{
+  background-color: #EAF9F5;
+  padding-top: 100px;
+  line-height: 2;
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  top: 220px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 10px;
+}
+
+.circular{
+  border-radius: 85%;
+}
+
+.footer-link{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dev{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.hack{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.py{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.ms{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  color: #11999E;
+  padding: 50px 0;
+
+}
+.copy{
+  color: #EAF6F6;
+  padding: 20px 0;
+
+}
+.biodata{
+  color: #40514E;
+}
+hr{
+  border: dotted #EAF6F6 4px;
+  border-bottom: none;
+  width: 5%;
+
+
+}
+.project{
+  margin: 50px 0 100px 0;
+}
+.intro{
+  line-height: 2;
+  padding: 50px 0;
+}
+.skill{
+  padding: 50px 0;
+}
+.contact-me{
+  padding: 50px 0;
+}
+.footer-link{
+  padding: 0 40px;
+  color: #11999E;
+  text-decoration: none;
+}
+.footer-icon{
+  margin: 20px 10px;
+}
+.link{
+  color: #11999E;
+  padding-top: 10px;
+}
+.link:hover{
+  color: green;
+}
+.head1{
+  padding: 5px;
+}
+.head2{
+  padding: 5px;
+}
+.head3{
+  padding: 5px;
+}
+
+.links{
+  
+  padding-right: 8px;
+
+}
+
+
